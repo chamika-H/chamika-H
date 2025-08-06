@@ -60,19 +60,31 @@
 
 ---
 
-![Projects](https://img.shields.io/badge/-FEATURED%20PROJECTS-0A66C2?style=for-the-badge&logo=github&logoColor=white)
+<h3>🚀 Featured Projects</h3>
 
-> 💡 **[Hospital Appointment System](https://github.com/chamika-h/hospital-appointment-system)**  
-> 🏥 A full-stack hospital system for managing doctor availability, patient appointments, and room assignments.  
-> 🔧 Stack: React | Spring Boot | MySQL
-
-> 🤖 **[Autonomous Medicine Delivery Robot](https://github.com/chamika-h/medicine-delivery-robot)**  
-> 🚗 Arduino-powered robot that delivers medicine in hospitals with obstacle detection and alert system.  
-> 🔧 Stack: Arduino | Sensors | LCD | Keypad
-
-> 🌤️ **[Weather Dashboard](https://github.com/chamika-h/weather-dashboard)**  
-> 📊 Real-time weather updates with API integration and responsive UI.  
-> 🔧 Stack: JavaScript | OpenWeather API | HTML/CSS
+<table>
+  <tr>
+    <td>
+      <h4><a href="https://github.com/chamika-h/hospital-appointment-system">🚑 Hospital Appointment System</a></h4>
+      <p>📌 A hospital management platform for appointments, doctor schedules, and room bookings.</p>
+      <p><b>Tech:</b> React, Spring Boot, MySQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><a href="https://github.com/chamika-h/medicine-delivery-robot">🤖 Autonomous Medicine Delivery Robot</a></h4>
+      <p>📌 An Arduino-powered robot to deliver medicine using obstacle avoidance and user interface with LCD and keypad.</p>
+      <p><b>Tech:</b> Arduino, C++, Sensors, LCD</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><a href="https://github.com/chamika-h/weather-dashboard">🌦️ Weather Dashboard</a></h4>
+      <p>📌 Real-time weather updates using external APIs and dynamic UI elements.</p>
+      <p><b>Tech:</b> HTML, CSS, JavaScript, OpenWeather API</p>
+    </td>
+  </tr>
+</table>
 
 
 ---
