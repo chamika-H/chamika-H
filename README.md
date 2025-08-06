@@ -67,7 +67,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [🚑 **Hospital Appointment System**](https://github.com/chamika-h/hospital-appointment-system) | A comprehensive hospital management system for handling appointments, doctor schedules, and room bookings. | <img src="https://skillicons.dev/icons?i=react,spring,mysql" height="25" /> |
+| [🚑 **Hospital System**](https://github.com/chamika-h/hospital-frontend) | A comprehensive hospital management system for handling appointments, doctor schedules, and room bookings. | <img src="https://skillicons.dev/icons?i=react,spring,mysql" height="25" /> |
 | [🤖 **Medicine Delivery Robot**](https://github.com/chamika-h/medicine-delivery-robot) | Arduino robot delivering medicine using obstacle avoidance, LCD display, and keypad interface. | <img src="https://skillicons.dev/icons?i=arduino,cpp" height="25" /> |
 | [🌦️ **Weather Dashboard**](https://github.com/chamika-h/weather-dashboard) | Real-time weather updates using OpenWeather API with a dynamic and responsive UI. | <img src="https://skillicons.dev/icons?i=html,css,js" height="25" /> |
 ---
