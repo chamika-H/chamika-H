@@ -1,32 +1,42 @@
-<div align="center">
+<!-- Intro Section -->
+<picture>
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
+</picture>
 
-  <h1 style="font-size: 3.5rem; margin-bottom: 0.2rem;">
-    👋 Hi, I'm <span style="color:#0a66c2;">Chamika Amarasinghe</span>
+<div align="center" style="font-family: Arial, sans-serif;">
+  <h1 style="font-size: 3.5rem; margin-bottom: 0.2rem; font-weight: 800;">
+    👋 𝐇𝐢, 𝐈'𝐦 <span style="color:#0a66c2; font-weight: 900;">𝐂𝐡𝐚𝐦𝐢𝐤𝐚 𝐀𝐦𝐚𝐫𝐚𝐬𝐢𝐧𝐠𝐡𝐞</span>
   </h1>
 
-  <p style="margin-bottom: 0.2rem;">
-    <img src="https://img.shields.io/badge/Software_Engineering-Student-0a66c2?style=for-the-badge&logo=appveyor" />
-    <img src="https://img.shields.io/badge/Full--Stack_Developer-0a66c2?style=for-the-badge&logo=react" />
-
+  <p style="margin-bottom: 0.2rem; font-size: 1.2rem; font-weight: 600;">
+    <img src="https://img.shields.io/badge/Software_Engineering-Student-0a66c2?style=for-the-badge&logo=appveyor&logoColor=white" style="margin: 4px; font-weight: bold;" />
+    <img src="https://img.shields.io/badge/Full--Stack_Developer-0a66c2?style=for-the-badge&logo=react&logoColor=white" style="margin: 4px; font-weight: bold;" />
   </p>
-
 </div>
 
----
 
-## 👤 About Me
 
-<ul>
-  <li><strong>🎯 Passionate about:</strong> Real-world technology solutions, AI & robotics, and modern software development.</li>
-  <li><strong>📚 Currently learning:</strong> Java, Spring Boot, Microservices, and Cloud Technologies.</li>
-  <li><strong>🔭 Exploring:</strong> New frameworks, DevOps practices, and scalable architectures.</li>
-  <li><strong>📧 Contact:</strong> <a href="mailto:chamikaheshani1155@gmail.com">chamikaheshani1155@gmail.com</a></li>
-</ul>
+
 
 ---
+## 👤 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 
 
-## 🔗 Connect With Me
+- **🎯 Passionate about:**  
+  Real-world technology solutions, AI & robotics, and modern software development.
 
+- **📚 Currently learning:**  
+  Java, Spring Boot, Microservices, and Cloud Technologies.
+
+- **🔭 Exploring:**  
+  New frameworks, DevOps practices, and scalable architectures.
+
+- **📧 Contact:**  
+  [chamikaheshani1155@gmail.com](mailto:chamikaheshani1155@gmail.com)
+
+
+---
+
+## 🔗 ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕎𝕚𝕥𝕙 𝕄𝕖
 <p align="center">
   <a href="mailto:chamikaheshani1155@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
@@ -38,7 +48,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
 
 ### 🧠 Languages
 <p align="center">
@@ -60,29 +70,19 @@
   <img src="https://skillicons.dev/icons?i=arduino,figma,postman,vscode,git,github" height="40" />
 </p>
 
-
 ---
 
-## 🚀 Featured Projects
+## 🚀𝔽𝕖𝕒𝕥𝕦𝕣𝕖𝕕 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [🚑 **Hospital System**](https://github.com/chamika-h/hospital-frontend) | A comprehensive hospital management system for handling appointments, doctor schedules, and room bookings. | <img src="https://skillicons.dev/icons?i=react,spring,mysql" height="25" /> |
 | [🤖 **Medicine Delivery Robot**](https://github.com/chamika-h/medicine-delivery-robot) | Arduino robot delivering medicine using obstacle avoidance, LCD display, and keypad interface. | <img src="https://skillicons.dev/icons?i=arduino,cpp" height="25" /> |
 | [🌦️ **Weather Dashboard**](https://github.com/chamika-h/weather-dashboard) | Real-time weather updates using OpenWeather API with a dynamic and responsive UI. | <img src="https://skillicons.dev/icons?i=html,css,js" height="25" /> |
----
-
-## 📚 Currently Learning
-
-- Spring Boot & Microservices  
-- Backend REST APIs & Authentication  
-- Full-stack projects with React + Spring  
-- Oracle Cloud & Advanced Databases  
 
 ---
 
-## 🏆 GitHub Stats & Trophies
-
+## 🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤 & 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤
 <div align="center">
   <a href="https://github.com/chamika-h">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=chamika-h&show_icons=true&theme=gruvbox&count_private=true&hide_title=true" />
@@ -99,16 +99,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
+
 <div align="center" style="margin-top: 2rem;">
-  <a href="https://github.com/chamika-h" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=chamika-h&color=0a66c2&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</div>
-
----
-
-<div align="center">
   ✨ _Thank you for visiting! Let's innovate together._ ✨
 
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0a66c2&height=100&section=footer)
 </div>
