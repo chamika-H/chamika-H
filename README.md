@@ -10,7 +10,7 @@
 
   <p style="margin-bottom: 0.2rem; font-size: 1.2rem; font-weight: 600;">
     <img src="https://img.shields.io/badge/Software_Engineering-Student-0a66c2?style=for-the-badge&logo=appveyor&logoColor=white" style="margin: 4px; font-weight: bold;" />
-    <img src="https://img.shields.io/badge/Full--Stack_Developer-0a66c2?style=for-the-badge&logo=react&logoColor=white" style="margin: 4px; font-weight: bold;" />
+
   </p>
 </div>
 
